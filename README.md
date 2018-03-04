@@ -1,5 +1,5 @@
 # wordpress-amazon-ec2
-##This is a way to make a free wordpress website hosted on Amazon.
+## This is a way to make a free wordpress website hosted on Amazon.
 *It uses a free-tier Amazon ec2 instance to host a site on Wordpress, with a Cloudflare DNS for advanced DDOS protection and other features, and the domain name can be taken from a few different places.*
 ##Here are the steps:
 1. Create an AWS account (https://aws.amazon.com/). If you already have one with an ec2 instance running, I suggest you make a new account to avoid having the instance cost money. Use a throw-away email like from mailinator: (https://www.mailinator.com/), but make the username obscure (joshuaN8wPryqNG5YjjcjP) to avoid other people from finding / using your username. Alternatively you can create another gmail account, but that is a hassle. *You can only have one ec2 instance running per account to stay within the free-tier limits of 750 hours / month (https://aws.amazon.com/free/).* Put in a credit / debit card for payment, but don't worry - if you do this right you won't be charged at all. You need the card on file, though.
